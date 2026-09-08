@@ -1,5 +1,6 @@
 # uber-dashboard
 📌 Project Overview
+
 This repository contains an end-to-end business intelligence (BI) solution that analyzes key ride-hailing metrics. The interactive dashboard evaluates transactional ride data to generate actionable insights across demand patterns, fleet utilization, pickup/drop-off route efficiency, and revenue streams.
 
 Key objectives include:
