@@ -55,3 +55,5 @@ Rating distribution matrix tracking driver satisfaction ratings vs. customer fee
 Power BI / DAX: Interactive dashboard development, data modeling, and custom measures.
 
 Power Query (M): Data cleaning, null handling, data type transformations, and custom column logic.
+
+Dashboard Preview : (https://github.com/alokmehata0403/uber-dashboard/blob/main/uber.png.png)
