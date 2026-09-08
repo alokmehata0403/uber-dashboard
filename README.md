@@ -17,7 +17,7 @@ The data used in this project is sourced from publicly available/simulated ride-
 
 Primary Dataset Source: Kaggle - Uber Request Data / Uber City Rides Dataset (or synthetic ride-hailing data generated to mirror real-world ride-share operational logs).
 
-Dataset Volume: ~100,000+ transactional ride records.
+Dataset Volume: ~120,000+ transactional ride records.
 
 Key Fields Included: Booking_ID, Booking_Date, Booking_Time, Booking_Status (Success, Cancelled by Driver, Cancelled by Customer), Vehicle_Type, Pickup_Location, Drop_Location, V_TAT (Vehicle Arrival Time), C_TAT (Customer Wait Time), Booking_Value, Payment_Method, Customer_Rating, Driver_Rating.
 
