@@ -56,4 +56,4 @@ Power BI / DAX: Interactive dashboard development, data modeling, and custom mea
 
 Power Query (M): Data cleaning, null handling, data type transformations, and custom column logic.
 
-Dashboard Preview : (https://github.com/alokmehata0403/uber-dashboard/blob/main/uber.png.png)
+![Dashboard Preview](https://github.com/alokmehata0403/uber-dashboard/blob/main/uber.png.png)
